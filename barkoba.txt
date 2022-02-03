@@ -1,2 +1,3 @@
 tárgy
 nem
+személy
